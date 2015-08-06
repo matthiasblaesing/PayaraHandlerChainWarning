@@ -1,0 +1,8 @@
+<handler-chains xmlns="http://java.sun.com/xml/ns/javaee">
+    <handler-chain>
+       <handler>
+           <handler-name>Demo</handler-name>
+           <handler-class>blaesing.demoproject.SOAPAuthenticationHandler</handler-class>
+       </handler>
+    </handler-chain>
+</handler-chains>
